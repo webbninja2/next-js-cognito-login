@@ -9,7 +9,7 @@ Features:-
 Prerequisites:- 
 Before you begin, ensure you have met the following requirements:
   * Node.js (version 18.17.1)
-  * npm (usually comes with Node.js) or yarn
+  * npm (usually comes with Node.js) or yarn 
   * AWS account with Cognito setup
 
 Installation:-
