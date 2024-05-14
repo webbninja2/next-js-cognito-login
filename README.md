@@ -4,7 +4,7 @@ Introduction:   This project is a web application built with Next.js that uses A
 Features:-
     * User login with AWS Cognito
     * New user password setup
-    * Built with Next.js for server-side rendering and static site generation
+    * Built with Next.js for server-side rendering and static site generation 
 
 Prerequisites:- 
 Before you begin, ensure you have met the following requirements:
