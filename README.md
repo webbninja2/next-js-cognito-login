@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 
 Installation:-
 * git clone https://github.com/webbninja2/next-js-cognito-login 
-* npm install
+* npm install 
 
 Open the layout.js or a .env file to add your AWS Cognito details. Replace the dummy values with your actual AWS Cognito configuration:
 // next.config.js
